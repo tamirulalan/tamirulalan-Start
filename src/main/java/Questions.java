@@ -3,7 +3,7 @@
  * Note: The exercise expects you to have read the "Entities of Java" topic in the curriculum.
  */
 public class Questions {
-    public public static void main(String[] args) {
+    //public public static void main(String[] args) {
         
 
     int question1(){
