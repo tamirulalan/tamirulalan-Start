@@ -3,6 +3,9 @@
  * Note: The exercise expects you to have read the "Entities of Java" topic in the curriculum.
  */
 public class Questions {
+    public public static void main(String[] args) {
+        
+
     int question1(){
         /* 
          * Replace the 0 in the return statement with the answer you believe to be true for the question below
